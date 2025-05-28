@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/504e7413036f42ad8223a31e3aa9623f/artifacts
+end_time: 1748389946058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 504e7413036f42ad8223a31e3aa9623f
+run_name: nervous-colt-984
+run_uuid: 504e7413036f42ad8223a31e3aa9623f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748389819137
+status: 3
+tags: []
+user_id: sharathchandrakanduri

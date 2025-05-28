@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ea03500a7c774325b7e2a4da1b6c687d/artifacts
+deleted_time: 1748390266637
+end_time: 1748387831279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea03500a7c774325b7e2a4da1b6c687d
+run_name: victorious-stork-837
+run_uuid: ea03500a7c774325b7e2a4da1b6c687d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748387830971
+status: 4
+tags: []
+user_id: sharathchandrakanduri

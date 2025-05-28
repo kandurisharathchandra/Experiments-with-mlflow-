@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/735152931208557624/9c2c48f0f4e1475d83d876ce22eec420/artifacts
+end_time: 1748391011446
+entry_point_name: ''
+experiment_id: '735152931208557624'
+lifecycle_stage: active
+run_id: 9c2c48f0f4e1475d83d876ce22eec420
+run_name: traveling-pug-510
+run_uuid: 9c2c48f0f4e1475d83d876ce22eec420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748391008445
+status: 3
+tags: []
+user_id: sharathchandrakanduri

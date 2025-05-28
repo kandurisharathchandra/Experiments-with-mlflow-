@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c7a597ad10eb4803bd68a9e1ad260da5/artifacts
+deleted_time: 1748390261930
+end_time: 1748388689734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c7a597ad10eb4803bd68a9e1ad260da5
+run_name: polite-panda-283
+run_uuid: c7a597ad10eb4803bd68a9e1ad260da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748388689479
+status: 4
+tags: []
+user_id: sharathchandrakanduri

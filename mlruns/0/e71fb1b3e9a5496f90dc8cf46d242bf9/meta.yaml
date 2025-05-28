@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e71fb1b3e9a5496f90dc8cf46d242bf9/artifacts
+end_time: 1748388574542
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e71fb1b3e9a5496f90dc8cf46d242bf9
+run_name: bold-crow-659
+run_uuid: e71fb1b3e9a5496f90dc8cf46d242bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748388574229
+status: 3
+tags: []
+user_id: sharathchandrakanduri

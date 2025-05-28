@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed1d425937324ec79e5c860fd83d0032/artifacts
+end_time: 1748390158894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1d425937324ec79e5c860fd83d0032
+run_name: monumental-fawn-825
+run_uuid: ed1d425937324ec79e5c860fd83d0032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748390156085
+status: 3
+tags: []
+user_id: sharathchandrakanduri
