@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/ec1bd85dbf3f41ffa48eca139e5f79ca/artifacts
+end_time: 1748394924575
+entry_point_name: ''
+experiment_id: '964062641664374851'
+lifecycle_stage: active
+run_id: ec1bd85dbf3f41ffa48eca139e5f79ca
+run_name: vaunted-wren-710
+run_uuid: ec1bd85dbf3f41ffa48eca139e5f79ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748394924570
+status: 3
+tags: []
+user_id: sharathchandrakanduri

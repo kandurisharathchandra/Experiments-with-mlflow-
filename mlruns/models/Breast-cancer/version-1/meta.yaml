@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748395582026
+current_stage: None
+description: ''
+last_updated_timestamp: 1748395582026
+name: Breast-cancer
+run_id: 9f0a59884f2843db802c416aa20821b5
+run_link: ''
+source: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/9f0a59884f2843db802c416aa20821b5/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/9f0a59884f2843db802c416aa20821b5/artifacts/random_forest
+user_id: null
+version: 1

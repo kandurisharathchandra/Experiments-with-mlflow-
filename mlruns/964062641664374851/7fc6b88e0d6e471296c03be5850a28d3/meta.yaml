@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/7fc6b88e0d6e471296c03be5850a28d3/artifacts
+end_time: 1748394924531
+entry_point_name: ''
+experiment_id: '964062641664374851'
+lifecycle_stage: active
+run_id: 7fc6b88e0d6e471296c03be5850a28d3
+run_name: stylish-stoat-562
+run_uuid: 7fc6b88e0d6e471296c03be5850a28d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748394924526
+status: 3
+tags: []
+user_id: sharathchandrakanduri

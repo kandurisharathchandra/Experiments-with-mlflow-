@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748395694033
+current_stage: None
+description: ''
+last_updated_timestamp: 1748395694033
+name: Breast-cancer
+run_id: 9c2c48f0f4e1475d83d876ce22eec420
+run_link: ''
+source: mlflow-artifacts:/735152931208557624/9c2c48f0f4e1475d83d876ce22eec420/artifacts/Random-Forest-Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/735152931208557624/9c2c48f0f4e1475d83d876ce22eec420/artifacts/Random-Forest-Model
+user_id: null
+version: 2

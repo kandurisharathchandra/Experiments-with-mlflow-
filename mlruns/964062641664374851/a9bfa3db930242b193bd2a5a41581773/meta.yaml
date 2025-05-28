@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/a9bfa3db930242b193bd2a5a41581773/artifacts
+end_time: 1748394924556
+entry_point_name: ''
+experiment_id: '964062641664374851'
+lifecycle_stage: active
+run_id: a9bfa3db930242b193bd2a5a41581773
+run_name: welcoming-frog-884
+run_uuid: a9bfa3db930242b193bd2a5a41581773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748394924550
+status: 3
+tags: []
+user_id: sharathchandrakanduri

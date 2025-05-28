@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sharathchandrakanduri/Desktop/git-tutorial/Experiments-with-mlflow-/mlruns/964062641664374851/9ffabd0c9123481fadf95adc67b168b4/artifacts
+end_time: 1748394924569
+entry_point_name: ''
+experiment_id: '964062641664374851'
+lifecycle_stage: active
+run_id: 9ffabd0c9123481fadf95adc67b168b4
+run_name: suave-cow-806
+run_uuid: 9ffabd0c9123481fadf95adc67b168b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748394924564
+status: 3
+tags: []
+user_id: sharathchandrakanduri
